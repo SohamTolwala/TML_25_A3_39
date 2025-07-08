@@ -17,7 +17,7 @@ Design a robust classifier on CIFAR-10-like data using adversarial training, par
 
 ---
 
-## 🗂Repository Structure
+## Repository Structure
 
 | File / Folder              | Purpose                                                                 |
 |---------------------------|-------------------------------------------------------------------------|
@@ -45,7 +45,7 @@ Model passed server-side checks after several debugging iterations involving inp
 
 ---
 
-## ⚙Key Techniques Used
+## Key Techniques Used
 
 - **PGD Adversarial Training** (gradual ramp-up over epochs)
 - **70:30 clean-to-adversarial** data mix
